@@ -1,11 +1,3 @@
-/******************************************************************************
-
-                              Online C++ Compiler.
-               Code, Compile, Run and Debug C++ program online.
-Write your code in this editor and press "Run" button to compile and execute it.
-
-*******************************************************************************/
-
 #include <iostream>
 
 using namespace std;
@@ -13,7 +5,8 @@ using namespace std;
 int
 main ()
 {
-  float temp, batuk, sesak_napas, anosmia;
+  float temp;
+  int batuk, sesak_napas, anosmia; 
   cout << "Silahkan Masukkan Suhu Tubuh Anda : \n";
   cin >> temp;
   cout <<
