@@ -10,7 +10,7 @@ main ()
 {
 //Variables Declaration
   float temp; //Since The Input Of The Data Are In Decimal, Variable Declaration in Float Data Type
-  int batuk, sesak_napas, anosmia; //Since The Input Of The Data Are In Integers, Variable Declaration in Integer Data Type
+  int sesak_napas, anosmia; //Since The Input Of The Data Are In Integers, Variable Declaration in Integer Data Type
 //Program Starts
 //User's Input
   cout << "Silahkan Masukkan Suhu Tubuh Anda : \n";
